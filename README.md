@@ -1,5 +1,5 @@
 # Project Description :bread:
-This website is a website that is used to checkout the items you want to buy. This website was created using React js and Material UI as the UI Framework from React js
+This website is a website that is used to checkout the items you want to buy. This website was created using React js and Material UI as the UI Framework from React js. In addition, this website also uses redux as state management
 
 <img src="./shopping_cart_demo.gif" width="100%" height="500px"/>
 
